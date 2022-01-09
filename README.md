@@ -13,7 +13,7 @@ git clone https://github.com/js430/trading_bot_local.git
 ## Usage
 
 ```python
-!python tradingbot.py
+!python tradebot.py
 
 #buy signal
 #parameters: date, ticker, strike price, call/put, price, max # of cons (optional), image link (optional)
