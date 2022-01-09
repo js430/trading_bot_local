@@ -26,7 +26,7 @@ git clone https://github.com/js430/trading_bot_local.git
 
 #trim signal
 #parameters: ticker, price
-!eSell SPY .56
+!trim SPY .56
 
 #cut signal
 #parameters: ticker, price
